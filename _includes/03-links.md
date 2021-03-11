@@ -1,1 +1,1 @@
-My github (only good stuff in here): https://lolkatz.github.io
+Only good stuff in here: [lolkatz GitHub home](https://lolkatz.github.io)
