@@ -1,4 +1,4 @@
-##TODOs list##
+## TODOs list
 1. Create github page
 2. Write blog about pivoting in throwback network part 1
 	1. Review
