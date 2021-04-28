@@ -5,6 +5,7 @@
 	* Remote code execution
 	* Password spraying with hydra
 	* LLMNR poisoning
+	* excel macro remote shell
 2. Throwback AD internal network
 	* Kerberos, bloodhound, kerberoasting
 	* Seatbelt, crackmapexec
